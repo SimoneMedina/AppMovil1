@@ -24,7 +24,7 @@ class BienvenidaVista extends StatelessWidget {
               ),
               const SizedBox(height: 20),
               const Text(
-                '¡Bienvenido!',
+                'Prueba Móviles',
                 style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
@@ -32,7 +32,7 @@ class BienvenidaVista extends StatelessWidget {
               ),
               const SizedBox(height: 15),
               const Text(
-                'Aplicación de ejercicios matemáticos',
+                'Ejercicios',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 18),
               ),
